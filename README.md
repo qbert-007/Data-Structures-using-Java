@@ -1,0 +1,29 @@
+# Data-Structures-using-Java
+Implementation of all basic Data-Structures using java
+
+Data-Structure implemented(ADT)--
+
+1:List-->
+
+        #Singly Linked-List   > with common operations such as insertion & deletion [at last, at first, at specific index],getSize...
+        #Doubly Linked-List   > all basic operation with addition addBefore method...
+        #Circular Linked-List > similar op...
+        
+2:Queue-->
+
+        #Queue using Array       > with common operations such as Enqueue, Dequeue using a static array.
+        #Queue using Linked-List > dynamic size queue with op. enqueue, dequeue, isEmpty, getSize...
+        
+3:Stack-->
+
+        #Stack using Static Array  > with push, pop, peek, getSize operations...
+        #Stack using Dynamic Array > dynamic array with capability to grow and shrink accordingly...
+        #Stack using Linked-List   > similar op...
+        
+4:Tree-->
+
+        #Binary Search Tree > operations such as insert, delete, serach, traverse, print...
+        
+5:Graph-->
+
+        #Graph using Adjacency List > operations such as adding, deleting vertex and edges, and getting adjacent vertex... 
